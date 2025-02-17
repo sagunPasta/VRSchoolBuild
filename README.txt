@@ -4,3 +4,5 @@ The .apk file is needed to be uploaded on your VR headset directly through SideQ
 Keep in mind that it is standalone build for Android systems such as Oculus OS.
 
 If you need Full Project, contact sagaggg19@gmail.com
+
+© Copyright 2024 qMeta - All Rights Reserved
